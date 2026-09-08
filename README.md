@@ -1,16 +1,47 @@
-## Hi there 👋
+                    ANDREA GUERRA
+                     QA ENGINEER
 
-<!--
-**andreastaad-bit/andreastaad-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+       Quality • Testing • Continuous Improvement
 
-Here are some ideas to get you started:
+────────────────────────────────────────────────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                    ABOUT ME
+
+   QA Engineer with a background in operations,
+   customer service, management and process quality.
+
+────────────────────────────────────────────────
+
+                 QA TOOLKIT
+
+       Python       Selenium       Postman
+       SQL          Jira           Git
+       GitHub       DevTools       Android Studio
+
+────────────────────────────────────────────────
+
+                  MY JOURNEY
+
+   ✈️ Aviation → 🌎 Tourism → 👩‍💼 Management
+                         ↓
+                    🧪 QA ENGINEER
+
+────────────────────────────────────────────────
+
+               FEATURED PROJECTS
+
+   🛒 Urban Routes
+   🔌 API Testing
+   📱 Mobile Testing
+
+────────────────────────────────────────────────
+
+                CURRENTLY LEARNING
+
+             Automation • SQL • Selenium
+
+────────────────────────────────────────────────
+
+                    CONNECT
+
+            LinkedIn • Email • GitHub
